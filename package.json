@@ -64,6 +64,12 @@
   "engines": {
     "node": ">=0.10.1"
   },
+  "files": [
+    "fonts",
+    "js/*.js",
+    "less/**/*.less",
+    "LICENSE"
+  ],
   "jspm": {
     "main": "js/bootstrap",
     "directories": {
